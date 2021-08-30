@@ -1,0 +1,25 @@
+- label: 
+    en: "Projects"
+    de: "Projekten"
+    fr: "Projets"
+  items:
+    - name:
+        en: Project 1
+        de: Projekt 1
+        fr: Projet 1
+      link: "projects/project-1.html"
+    - name:
+        en: Project 2
+        de: Projekt 2
+        fr: Projet 2
+      items:
+        - name:
+            en: Introduction
+            de: Introduction
+            fr: Introduction
+          link: "/projects/project-2/introduction.html"
+        - name:
+            en: Description
+            de: Beschreibung
+            fr: Description
+          link: "/projects/project-2/description.html"
