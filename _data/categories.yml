@@ -1,0 +1,45 @@
+- id: all
+  name:
+    en: "News archive"
+    de: "Nachrichtenarchiv"
+    fr: "Archive des actualités"
+- id: new_at_rism
+  name:
+    en: "New at RISM"
+    de: "Eigendarstellung"
+    fr: "Nouveau au RISM"
+- id: library_collections
+  name:
+    en: "Library collections"
+    de: "Bibliotheksbestände"
+    fr: "Collections de bibliothèques"
+- id: new_publications
+  name:
+    en: "New publications"
+    de: "Neuerscheinungen"
+    fr: "Nouveautés"
+- id: in_the_news
+  name:
+    en: "In the news"
+    de: "Pressespiegel"
+    fr: "A la une"
+- id: events
+  name:
+    en: "Events"
+    de: "Veranstaltungen"
+    fr: "Evénements"
+- id: rediscovered
+  name:
+    en: "Rediscovered"
+    de: "Wiederendeckt"
+    fr: "Redécourvertes"
+- id: rism_a-z
+  name:
+    en: "RISM A-Z"
+    de: "RISM A-Z"
+    fr: "RISM A-Z"
+- id: in_memoriam
+  name:
+    en: "In memoriam"
+    de: "In memoriam"
+    fr: "In memoriam"

@@ -1,25 +1,25 @@
-- label: 
-    en: "Projects"
-    de: "Projekten"
-    fr: "Projets"
+- label:
+    en: "Information"
+    de: "Weitere Informationen"
+    fr: "Information"
   items:
     - name:
-        en: Project 1
-        de: Projekt 1
-        fr: Projet 1
+        en: List
+        de: Liste aller Fundorte
+        fr: List
       link: "projects/project-1.html"
-    - name:
-        en: Project 2
-        de: Projekt 2
-        fr: Projet 2
-      items:
-        - name:
-            en: Introduction
-            de: Introduction
-            fr: Introduction
-          link: "/projects/project-2/introduction.html"
-        - name:
-            en: Description
-            de: Beschreibung
-            fr: Description
-          link: "/projects/project-2/description.html"
+      #- name:
+      #  en: Project 2
+      #  de: Projekt 2
+      #  fr: Projet 2
+      #items:
+      #  - name:
+      #      en: Introduction
+      #      de: Introduction
+      #      fr: Introduction
+      #    link: "/projects/project-2/introduction.html"
+      #  - name:
+      #      en: Description
+      #     de: Beschreibung
+      #      fr: Description
+      #    link: "/projects/project-2/description.html"

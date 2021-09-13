@@ -1,14 +1,21 @@
 ---
-title: Publications
 layout: publications
+title: 'Publications'
 lang: en
-permalink: /publications.html
+old_url: 'http://de.rism.info/publications.html'
+permalink: '/publications.html'
 ---
+
 
 # Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate mi sit amet mauris commodo. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Duis convallis convallis tellus id interdum. Nisi quis eleifend quam adipiscing vitae proin sagittis. In hac habitasse platea dictumst quisque sagittis purus sit. Nunc congue nisi vitae suscipit. Neque sodales ut etiam sit amet nisl. Arcu cursus vitae congue mauris. Donec enim diam vulputate ut pharetra. Maecenas accumsan lacus vel facilisis volutpat est.
+Die Arbeitsergebnisse der RISM-Arbeitsgruppe Deutschland werden derzeit in erster Linie als Datenbank, die durch den RISM-OPAC (opac.rism.info) frei zugänglich ist, veröffentlicht.
+Zusätzlich werden zu ausgewählten Beständen aus der Datenbank generierte Katalogausdrucke hergestellt, die ursprünglich vor allem für die besitzenden Institutionen gedacht waren. Seit 2009 werden einige dieser Kataloge in der Reihe "Musikhandschriften in Deutschland. Kataloge ausgewählter Sammlungen" auf dem sächsischen Dokumenten- und Publikationsserver "Qucosa" als pdf-Dateien zur Verfügung gestellt.
+Einige wenige aus der Arbeit von RISM hervorgegangene Kataloge sind auch als Bände anderer Reihen in Buchform erhältlich (s.u.).
+Darüber hinaus sind die Mitarbeiterinnen und Mitarbeiter der beiden deutschen RISM Arbeitsstellen in Dresden und München bemüht, ihre bei der Arbeit für die Quellendatenbank anfallenden Erkenntnisse in Aufsätzen und Vorträgen in der Fachwelt bekannt zu machen. Dabei können z.B. interessante Querverbindungen, die in der Datenbank sonst kaum wahrgenommen würden, oder über die reine Katalogisierung hinausgehende Forschungen angemessen publik gemacht werden.
 
-## Online Catalog
+- Musikhandschriften in Deutschland. Kataloge ausgewählter Sammlungen
+- In anderen Reihen veröffentlichte Kataloge
+- Aufsätze
+- Jahresberichte
 
-Justo nec ultrices dui sapien eget mi proin. Neque aliquam vestibulum morbi blandit cursus risus at ultrices mi. Sit amet consectetur adipiscing elit duis. Ut placerat orci nulla pellentesque dignissim enim sit amet venenatis. Dui faucibus in ornare quam viverra orci sagittis. Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Arcu dui vivamus arcu felis bibendum ut. Feugiat vivamus at augue eget arcu dictum varius duis at. Diam vulputate ut pharetra sit amet aliquam. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Natoque penatibus et magnis dis parturient. Mauris augue neque gravida in.

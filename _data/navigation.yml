@@ -4,15 +4,20 @@
     fr: "Accueil"
   link: /index.html
 - name:
-    en: "Organization"
-    de: "Unternehmen"
-    fr: "Organisation"
-  link: /organization.html
-- name:
     en: "Projects"
-    de: "Projekten"
+    de: "Projekte"
     fr: "Projects"
   link: /projects.html
+- name:
+    en: "Music Manuscripts"
+    de: "Musikhandschriften"
+    fr: "Manuscrits"
+  link: /musicmanuscripts.html
+- name:
+    en: "Organization"
+    de: "Organisation"
+    fr: "Organisation"
+  link: /organization.html
 - name:
     en: "Team"
     de: "Team"

@@ -43,8 +43,6 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 1.8)
-    jekyll-feed (0.15.1)
-      jekyll (>= 3.7, < 5.0)
     jekyll-paginate-v2 (3.0.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-polyglot (1.3.3)
@@ -86,7 +84,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.1.1)
-  jekyll-feed
   jekyll-paginate-v2
   jekyll-polyglot
   jekyll-redirect-from
@@ -95,4 +92,4 @@ DEPENDENCIES
   rism-theme!
 
 BUNDLED WITH
-   2.1.4
+   2.2.24

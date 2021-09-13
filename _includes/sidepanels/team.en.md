@@ -1,17 +1,8 @@
 # Contact Information
 
-**Internationales Quellenlexikon der Musik (RISM)**
+**[Sächsische Landesbibliothek – Staats- und Universitätsbibliothek
+Dresden](http://www.slub-dresden.de/startseite/)**
+(with Außenstelle Weimar)
 
-RISM Zentralredaktion  
-Johann Wolfgang Goethe-Universität  
-Campus Bockenheim  
-Senckenberganlage 31-33  
-60325 Frankfurt am Main  
-Germany
-
-Telephone: +49 69 706231  
-Fax: +49 69 706026  
-Email: [contact@rism.info](mailto:contact@rism.info)
-
-**Executive Director of the Editorial Center:**  
-Dr. Balázs Mikusi 
+**[Bayerische Staatsbibliothek München](http://www.bsb-muenchen.de/index.php)**
+(with RIdIM)

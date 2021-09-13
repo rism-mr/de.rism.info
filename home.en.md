@@ -1,9 +1,12 @@
 ---
 title: RISM
-layout: home-rism-wg
+layout: home
 lang: en
 permalink: /index.html
 ---
 
-The **Répertoire International des Sources Musicales (RISM)** - International Inventory of Musical Sources - is an international, non-profit organization that aims to comprehensively document extant musical sources worldwide: manuscripts, printed music editions, writings on music theory, and libretti that are found in libraries, archives, churches, schools, and private collections. The **RISM Catalog of Musical Sources** contains over 1.2 million records and can be searched at no cost. RISM was founded in Paris in 1952 and is the largest and only global organization that documents written musical sources. RISM records _what_ exists and _where_ it can be found.
 
+<iframe src="https://www.google.com/maps/d/embed?mid=13ubpiW-IJ5y8mxTRJ0RvBpnmuFo" width="680" height="480"></iframe>
+
+<br>
+<p>The map gives an overview of the current state of the collections in RISM. After you click on a point on the map, a menu on the left-hand side opens where you can see the number of records in RISM and the cataloging status. Completed collections are green and collections marked yellow are either in process or waiting to be cataloged. Red means that the collections are new and unprocessed yet not in the long-standing strategy of RISM Germany, but the holding institutions or owners have expressed an interest in having them cataloged by RISM. Given that new collections are reported to us on a regular basis (in particular materials newly acquired by libraries and institutions that are already in RISM, but also private collections), the 250 collections that still need to be cataloged (a number determined in 2015) can be reduced only slowly.</p>

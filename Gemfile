@@ -15,6 +15,7 @@ gem "rism-theme", git: 'https://github.com/rism-digital/rism-theme'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem "jekyll-paginate-v2"
   gem "jekyll-polyglot"
   gem "jekyll-seo-tag"
   gem "jekyll-redirect-from"
