@@ -23,11 +23,11 @@ Da die Katalogisierung von Musikhandschriften bereits vor der Entwicklung einer 
 
 Einzelheiten zum Stand der Erschließung der Musikhandschriften in den deutschen Bibliotheken erhalten Sie [hier](http://www.rism.info/?id=39 "Öffnet externen Link in neuem Fenster") (die Übersichten werden sukzessive um nähere Angaben zu den einzelnen Beständen ergänzt):
 
-[Verzeichnis aller von RISM erschlossenen Bestände](de/musikhandschriften/liste-aller-fundorte.html "Öffnet internen Link im aktuellen Fenster")
+[Verzeichnis aller von RISM erschlossenen Bestände](/musicmanuscripts/liste-aller-fundorte.html "Öffnet internen Link im aktuellen Fenster")
 
-[Laufende Arbeiten](de/projekte/laufende-arbeiten.html#c766 "Opens internal link in current window")
+[Laufende Arbeiten](/projects/laufende-arbeiten.html#c766 "Opens internal link in current window")
 
 Ab 2009 begann die Arbeitsgruppe Deutschland für ausgewählte Sammlungen eigene Kataloge zu publizieren. Diese sind auf einem Online-Server einzusehen. Diese Kataloge sind&nbsp;Auszüge aus dem RISM-OPAC, speziell für diese Sammlungen zusammengefasst. Bei weiter notwendigen Informationen zu den Sammlungen, sollte aber auf jeden Fall der aktuellere&nbsp;RISM-OPAC&nbsp;konsultiert werden, da dessen Daten ein monatliches Update&nbsp;erfahren.&nbsp;Für kleinere Sammlungen werden Kataloge nur&nbsp;als Handexemplare erstellt.&nbsp;
 
-[Musikhandschriften in Deutschland. Kataloge ausgewählter Sammlungen](de/publikationen/musikhandschriften-in-deutschland.html "Öffnet internen Link im aktuellen Fenster")
+[Musikhandschriften in Deutschland. Kataloge ausgewählter Sammlungen](/publications/musikhandschriften-in-deutschland.html "Öffnet internen Link im aktuellen Fenster")
 
