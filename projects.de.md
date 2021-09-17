@@ -10,6 +10,16 @@ permalink: '/projects.html'
 
 # Projekte und laufende Arbeiten
 
+<div style="float: left; width: 44%">
+   <figure class="figure">
+      <div class="float-left">
+         <img src="/images/old/fileadmin/csm_Abb._D-KA_Mus._Hs._213_ce73bd6f3e.jpg">
+      </div>
+      <figcaption class="figcaption">
+         Abb. D-KA Mus. Hs. 213
+      </figcaption>
+   </figure>
+</div>
 
 Die deutsche RISM Arbeitsgruppe arbeitet vor allem an der Erschließung von Musikhandschriften. Im Zug der Arbeiten an den einzelnen Beständen wird aber jeweils zusätzlich überprüft, ob noch Quellen vorhanden sind, die bei früheren Katalogisierungen zu den gedruckten Quellen nicht erfaßt wurden (Musikdrucke, Musiktheoretische Drucke, Libretti). Diese Quellen werden entweder im RISM OPAC erfaßt oder in den internen Karteien der RISM Arbeitsstellen nachgewiesen.
 

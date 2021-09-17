@@ -10,6 +10,16 @@ permalink: /musicmanuscripts.html
 
 # Musikhandschriften
 
+<div style="float: right; width: 44%">
+   <figure class="figure">
+      <div class="float-left">
+         <img src=" /images/old/fileadmin/csm_Mozart_Litanei_Titel_b7bd26355a.jpg">
+      </div>
+      <figcaption class="figcaption">
+         Abb. Kaufbeuren, Stadtpfarrkirche St. Martin (D-KFm) Mus. Ms. 63
+      </figcaption>
+   </figure>
+</div>
 
 Die Katalogisierung von Musikhandschriften steht seit einigen Jahren im Mittelpunkt der Tätigkeit beider deutscher Arbeitsstellen.
 

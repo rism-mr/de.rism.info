@@ -9,8 +9,6 @@ permalink: '/team/vita.html'
 
 # Vita
 
-{% include image file="/images/team/lauterwasser.jpg" pos="right" %}
-
 # Persönliche Daten:
 
 Geboren 1958 in Marbach/Neckar-Rielingshausen
