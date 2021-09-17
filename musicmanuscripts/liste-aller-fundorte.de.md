@@ -83,7 +83,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="http://www.rism.info/de/workgroups/germany-dresden-munich-working-group-deutschland/projekte/laufende-arbeiten.html#c703" title="Opens internal link in current window" target="_blank">Ansbach, Staatliche Bibliothek</a>*</td>
+         <td valign="top" width="51%"><a href="/projects/laufende-arbeiten.html#c703" title="Opens internal link in current window" target="_blank">Ansbach, Staatliche Bibliothek</a>*</td>
          <td valign="top" width="13%">D-AN</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
@@ -185,7 +185,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="de/projekte/laufende-arbeiten.html" title="Opens internal link in current window" target="_self">Bamberg, Archiv der Erzdiözese*</a></td>
+         <td valign="top" width="51%" rowspan="1"><a href="/projects/laufende-arbeiten.html" title="Opens internal link in current window" target="_self">Bamberg, Archiv der Erzdiözese*</a></td>
          <td valign="top" width="13%" rowspan="1">D-BAd</td>
          <td valign="top" width="21%" rowspan="1">in Arbeit</td>
       </tr>
@@ -525,7 +525,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="de/projekte/laufende-arbeiten.html#c3731" title="Opens internal link in current window" target="_self">Flensburg, Stadtarchiv</a></td>
+         <td valign="top" width="51%" rowspan="1"><a href="/projects/laufende-arbeiten.html#c3731" title="Opens internal link in current window" target="_self">Flensburg, Stadtarchiv</a></td>
          <td valign="top" width="13%" rowspan="1">D-FLa</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
@@ -1162,7 +1162,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="de/projekte/laufende-arbeiten.html#c3151" title="Opens internal link in current window" target="_self">Marburg, Staatsarchiv und Archivschule</a>*</td>
+         <td valign="top" width="51%" rowspan="1"><a href="/projects/laufende-arbeiten.html#c3151" title="Opens internal link in current window" target="_self">Marburg, Staatsarchiv und Archivschule</a>*</td>
          <td valign="top" width="13%" rowspan="1">D-MGs</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
@@ -1217,7 +1217,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="de/projekte/laufende-arbeiten.html#c1398" title="Opens internal link in current window" target="_top">München, Bayerische Staatsbibliothek</a>*</td>
+         <td valign="top" width="51%"><a href="/projects/laufende-arbeiten.html#c1398" title="Opens internal link in current window" target="_top">München, Bayerische Staatsbibliothek</a>*</td>
          <td valign="top" width="13%">D-Mbs</td>
          <td valign="top" width="21%">RISM-OPAC / KBM 5</td>
       </tr>
@@ -1332,7 +1332,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="de/projekte/laufende-arbeiten.html#c3751" title="Opens internal link in current window" target="_self">Neukirchen beim Heiligen Blut, Franziskanerkloster</a></td>
+         <td valign="top" width="51%" rowspan="1"><a href="/projects/laufende-arbeiten.html#c3751" title="Opens internal link in current window" target="_self">Neukirchen beim Heiligen Blut, Franziskanerkloster</a></td>
          <td valign="top" width="13%" rowspan="1">D-NKf</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
@@ -1382,7 +1382,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="de/projekte/laufende-arbeiten.html#c3323" title="Opens internal link in current window" target="_self">Nürnberg, Bibliothek beim Landeskirchlichen Archiv (Landeskirchliches Archiv)</a>*</td>
+         <td valign="top" width="51%"><a href="/projects/laufende-arbeiten.html#c3323" title="Opens internal link in current window" target="_self">Nürnberg, Bibliothek beim Landeskirchlichen Archiv (Landeskirchliches Archiv)</a>*</td>
          <td valign="top" width="13%">D-Nla*</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
@@ -1432,7 +1432,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="de/projekte/laufende-arbeiten.html#c3517" title="Opens internal link in current window" target="_self">Osnabrück, Niedersächsisches Landesarchiv, Zweigstelle Osnabrück</a>*</td>
+         <td valign="top" width="51%" rowspan="1"><a href="/projects/laufende-arbeiten.html#c3517" title="Opens internal link in current window" target="_self">Osnabrück, Niedersächsisches Landesarchiv, Zweigstelle Osnabrück</a>*</td>
          <td valign="top" width="13%" rowspan="1">D-OSa</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>

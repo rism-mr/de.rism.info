@@ -10,6 +10,18 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/bad-soden-salmuenster-katholi
 
 # Bad Soden-Salmünster, Katholische Kirchengemeinde St. Peter und Paul, Stifts- und Pfarrarchiv Salmünster (D-BSSp)
 
+<div style="float: right;">
+   <figure class="figure">
+      <div class="float-left">
+         <img src="/images/old/fileadmin/csm_Filtz3_Veni_001_0dc34593f9.jpg">
+      </div>
+      <figcaption class="figcaption">
+         Titelblatt eines bisher noch unbekannten "Veni sancte spiritus" von
+         Anton Fils (1733-1760), von der Hand und aus dem Besitz Johann
+         Balthasar Zahns (1704-1776).
+      </figcaption>
+   </figure>
+</div>
 
 Im Spätjahr 2007 wurde bei archivalischen Arbeiten des Diözesanarchivs Fulda im Stifts- und Pfarrarchiv der katholischen Kirchengemeinde St. Peter und Paul in Salmünster eine Kiste mit „alten Noten“ gefunden. Neben dreizehn Drucken befanden sich in der Mehrzahl Handschriften unter diesen Musikalien, die nahezu alle aus der zweiten Hälfte des 18. Jahrhunderts stammten. Dieser Fund stellt heutzutage sowohl der Anzahl der Musikhandschriften nach als auch in der Geschlossenheit des Zeitrahmens eine Ausnahme dar. Der Fund enthält qualitativ wertvolle Stücke und gibt außerdem einen Hinweis auf die außerordentlich hochstehende Musizierpraxis, die in Salmünster geherrscht haben muss. Des Weiteren sind die Bezüge und Provenienzen der Musikhandschriften von großem Interesse.
 

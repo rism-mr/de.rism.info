@@ -10,8 +10,18 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/augsburg.html'
 
 # Augsburg
 
-
 ## Staats- und Stadtbibliothek Augsburg (D-As)
+
+<div style="float: right; width: 70%">
+<figure class="figure">
+  {% include image file="/images/old/fileadmin/csm_D-Ahk_30_0069a1abb7.jpg" pos="left" title="caption for image" %}
+<figcaption class="figcaption">
+D-Ahk Hl. Kreuz 30
+</figcaption>
+</figure>
+</div>
+
+
 
 Der größte Teil der Musikhandschriften der Bibliothek wurde von Clytus Gottwald in einem gedruckten Katalog beschrieben, der auch online verfügbar ist (siehe Literatur). Faksimiles dieser Musikhandschriften wurden im [Harald Fischer Verlag](http://www.haraldfischerverlag.de/hfv/augsburg_handschriften.php "Opens external link in new window") als Mikrofiches publiziert.
 

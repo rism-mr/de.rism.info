@@ -8,6 +8,7 @@ permalink: '/projects/laufende-arbeiten.html'
 ---
 
 # Laufende Arbeiten (Musikhandschriften)
+
 Auf dieser Seite finden Sie Informationen zu Bibliotheken, deren Musikhandschriftenbestände derzeit katalogisiert werden.
 
 # Ansbach (D-AN)
@@ -28,9 +29,27 @@ Von den ebenfalls digitalisierten einstimmigen liturgischen Handschrift&nbsp;[VI
 
 # Bamberg (D-BAd)
 
-Archiv der Erzdiözese Bamberg
+<div style="float: right; width: 44%">
+   <figure class="figure">
+      <div class="float-left">
+         <img src="/images/old/fileadmin/csm_EB_201_wm_GWB_MOGELDORF_6062935b0c.jpg">
+      </div>
+      <figcaption class="figcaption">
+         Ebrach, EB 201, Wasserzeichen "GWB Mögeldorf"
+      </figcaption>
+   </figure>
 
- ![](/fileadmin/_processed_/csm_EB_201_wm_GWB_MOGELDORF_6062935b0c.jpg) ![](/fileadmin/_processed_/csm_EB_201_wm_GWB_MOGELDORF_countermark_Mary_with_child_f652dac878.jpg)
+   <figure class="figure">
+      <div class="float-left">
+         <img src="/images/old/fileadmin/csm_EB_201_wm_GWB_MOGELDORF_countermark_Mary_with_child_f652dac878.jpg">
+      </div>
+      <figcaption class="figcaption">
+         Ebrach, EB 201, Wasserzeichen Gegenmarke Maria mit Jesuskind
+      </figcaption>
+   </figure>
+</div>
+
+Archiv der Erzdiözese Bamberg
 
 Im Archiv der Erzdiözese Bamberg werden die unterschiedlichen Pfarrarchive gesammelt. Neben den hauptsächlich schriftlichen und bautechnischen Archivalien befinden dort aber auch die Musikalien aus verschiedenen Pfarreien.
 
@@ -46,9 +65,19 @@ Im Jahr 2018 wurde der Bestand aus Neunkirchen am Brand erfasst und im Laufe des
 
 [To top](#)
 
- ![](/fileadmin/_processed_/csm_vivaldi_0edbd1468c.jpg "vivaldi")
-
 # Dresden (D-Dl)
+
+<div style="float: right; width: 44%">
+   <figure class="figure">
+      <div class="float-left">
+         <img src="/images/old/fileadmin/csm_vivaldi_0edbd1468c.jpg">
+      </div>
+      <figcaption class="figcaption">
+         Musikquelle Vivaldi
+      </figcaption>
+   </figure>
+</div>
+
 Sächsische Landesbibliothek – Staats- und Universitätsbibliothek
 
 Die [Musikabteilung](https://www.slub-dresden.de/sammlungen/musik/ "Opens external link in new window")&nbsp;hat einen Bestand von ca. 19.000 Musikhandschriften, von denen bislang nur ein Teil von der RISM-Arbeitsstelle Dresden erfasst wurde. In der RISM-Datenbank finden sich die handschriftlich überlieferten Kompositionen von Georg Philipp Telemann, Christian Gottlob August Bergt, Joseph Haydn, König Anton von Sachsen, Francesco Morlacchi und Joseph Schuster .
@@ -72,11 +101,16 @@ Im Archiv finden sich einige Sammelhandschriften des 19. Jahrhundert, darunter L
 
 (Steffen Voss, Dezember 2018)
 
-![](/fileadmin/content/workgroups/munich/IMG_6733.JPG "Eduard Dupuy, Lied aus der dänischen Oper &quot;Ungdom og Galskab&quot;, aus dem Gitarrenbuch des E. J. Rickertsen, ca. 1840")
-
- ![](/fileadmin/content/workgroups/munich/IMG_6733.JPG "Eduard Dupuy, Lied aus der dänischen Oper &quot;Ungdom og Galskab&quot;, aus dem Gitarrenbuch des E. J. Rickertsen, ca. 1840")
-
-&nbsp;Abbildung: Eduard Dupuy, Lied aus der Oper "Ungdom og Galskab", aus dem Gitarrenbuch des E. J. Rickertsen, ca. 1840.
+<div style="display: inline-block">
+   <figure class="figure">
+      <div class="float-left">
+         <img src="/images/old/fileadmin/IMG_6733.JPG">
+      </div>
+      <figcaption class="figcaption">
+          Abbildung: Eduard Dupuy, Lied aus der Oper "Ungdom og Galskab", aus dem Gitarrenbuch des E. J. Rickertsen, ca. 1840.
+      </figcaption>
+   </figure>
+</div>
 
 [To top](#)
 
@@ -92,6 +126,17 @@ Der Bestand N.I. wurde in den Jahren 2007 bis 2009 durch Annegret Rosenmüller e
 [To top](#)
 
 # Marburg (D-MGs)
+
+<div style="float: left; width: 44%">
+   <figure class="figure">
+      <div class="float-left">
+         <img src="/images/old/fileadmin/csm_319_Frankenberg_69_723x1090_300KB_01_2c89fffcce.jpg">
+      </div>
+      <figcaption class="figcaption">
+         Vokalstimme der Kantate „Des Menschen Sohn ist's der da guten Samen säet“ von Johann Nikolaus Tischer, Signatur 319 Frankenberg Nr. 69, aus dem Jahr 1755
+      </figcaption>
+   </figure>
+</div>
 
 Hessisches Staatsarchiv
 
@@ -112,9 +157,18 @@ Bei Fragen zur Katalogisierung durch RISM wenden Sie sich bitte an Daniela Wisse
 
 # München (D-Mbs)
 
-Bayerische Staatsbibliothek München
+<div style="float: right; width: 44%">
+   <figure class="figure">
+      <div class="float-left">
+        <a href="/images/old/fileadmin/csm_HaydnM_Autogr_00348_015_0489b79853.jpg" target="_blank">  <img src="/images/old/fileadmin/csm_HaydnM_Autogr_00348_015_0489b79853.jpg"> </a>
+      </div>
+      <figcaption class="figcaption">
+         D-Mbs, Mus.ms. 348, Michael Haydn (Autograph) Adjutor in opportunibus, MH 446. (RISM ID no. 456009367).
+      </figcaption>
+   </figure>
+</div>
 
- ![](/fileadmin/_processed_/csm_HaydnM_Autogr_00348_015_0489b79853.jpg)
+Bayerische Staatsbibliothek München
 
 Es ist geplant, in den kommenden Jahren, den gesamten Bestand der älteren Musikhandschriften der [Bayerischen Staatsbibliothek](https://www.bsb-muenchen.de/sammlungen/musik/ "Opens external link in new window") (bis um die Mitte des 19. Jahrhunderts) vollständig zu erschließen. Die bereits in gedruckten Katalogen verzeichneten Chorbücher, Stimmbücher und Tabulaturen bis zur ersten Hälfte des 17. Jahrhunderts (siehe _Kataloge Bayerischer Musiksammlungen,_ Band 5/1 und 5/2) wurden inzwischen in Rahmen von zwei von der DFG geförderten Digitalisierungsprojekten für RISM erschlossen. Die Titelaufnahmen der _Collectio musicalis Maximilianea_ (KBM 5/3) wurden bereits zuvor von der Frankfurter RISM Zentralredaktion in den Bestand von RISM A/II überführt.
 
@@ -147,7 +201,17 @@ Literatur:&nbsp;
 
 # Nürnberg, Bibliothek beim Landeskirchlichen Archiv (D-Nla)
 
- ![](/fileadmin/_processed_/csm_D-Nla_Rentweinsdorf_5-5_Cantus_001_edb25f6a58.jpg)
+<div style="float: right; width: 44%">
+   <figure class="figure">
+      <div class="float-left">
+         <a href="/images/old/fileadmin/csm_Rentweinsdorf.jpg" target="_blank"> <img src="/images/old/fileadmin/csm_Rentweinsdorf.jpg"></a>
+      </div>
+      <figcaption class="figcaption">
+         Cantus-Stimme der Kantate "Das Volk so im Finstern wandelt" von Johann Philipp Käfer (1672-1728).
+      </figcaption>
+   </figure>
+</div>
+
 
 "Das Landeskirchliche Archiv verwahrt das Archivgut der kirchenleitenden Organe, sonstiger kirchlicher Dienststellen (auch vieler Pfarrämter) und Einrichtungen und ihrer jeweiligen Vorgänger in den einzelnen Territorien, deren evangelische Kirchenwesen im frühen 19. Jahrhundert zur "Protestantischen Kirche in Bayern rechts des Rheins" zusammengefügt worden waren." (Zitat aus der Homepage des Archivs)
 

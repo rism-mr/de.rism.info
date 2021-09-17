@@ -10,6 +10,16 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/bamberg-staatsbibliothek-d-ba
 
 # Bamberg, Staatsbibliothek (D-BAs)
 
+<div style="float: right;">
+   <figure class="figure">
+      <div class="float-left">
+         <img src="/images/old/fileadmin/csm_MscAdd157_Undine_f.1r_800x800_500KB_88f6ee4c0c.jpg">
+      </div>
+      <figcaption class="figcaption">
+         Msc Add157 Undine f.1r
+      </figcaption>
+   </figure>
+</div>
 
 In der Staatsbibliothek Bamberg (D-BAs) wurden 20 Handschriften katalogisiert, die teilweise aus dem ehemaligen herzoglichen Bestand in Zweibrücken stammten. Daneben wurden Autographe von E.T. A Hofmann aufgenommen. Die bereits bestehenden Digitalisate der Staatsbibliothek wurden mit den Titelaufnahmen verknüpft.Besonders interessant die abgebildete Abschrift Max Regers von E.T.A. Hoffmanns Undine.
 
