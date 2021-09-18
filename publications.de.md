@@ -14,7 +14,7 @@ Zusätzlich werden zu ausgewählten Beständen aus der Datenbank generierte Kata
 Einige wenige aus der Arbeit von RISM hervorgegangene Kataloge sind auch als Bände anderer Reihen in Buchform erhältlich (s.u.).
 Darüber hinaus sind die Mitarbeiterinnen und Mitarbeiter der beiden deutschen RISM Arbeitsstellen in Dresden und München bemüht, ihre bei der Arbeit für die Quellendatenbank anfallenden Erkenntnisse in Aufsätzen und Vorträgen in der Fachwelt bekannt zu machen. Dabei können z.B. interessante Querverbindungen, die in der Datenbank sonst kaum wahrgenommen würden, oder über die reine Katalogisierung hinausgehende Forschungen angemessen publik gemacht werden.
 
-- Musikhandschriften in Deutschland. Kataloge ausgewählter Sammlungen
-- In anderen Reihen veröffentlichte Kataloge
-- Aufsätze
-- Jahresberichte
+- [Musikhandschriften in Deutschland. Kataloge ausgewählter Sammlungen](publications/musikhandschriften-in-deutschland.html)
+- [In anderen Reihen veröffentlichte Kataloge](/publications/andere-reihen.html)
+- [Aufsätze](publications/aufsaetze.html)
+- [Jahresberichte](/publications/jahresberichte.html)
