@@ -653,7 +653,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
       </tr>
       <tr>
          <td valign="top" width="51%" rowspan="1">
-            <p class="bodytext"><a href="http://www.rism.info/de/workgroups/germany-dresden-munich-working-group-deutschland/einzelinformationen/gotha-forschungs-und-landesbibliothek.html#c863" title="Opens internal link in current window" target="_top">Gotha, Forschungs- u. Landesbibliothek</a>*</p>
+            <p class="bodytext"><a href="/musicmanuscripts/liste-aller-fundorte/gotha-forschung.html#c863" title="Opens internal link in current window" target="_top">Gotha, Forschungs- u. Landesbibliothek</a>*</p>
          </td>
          <td valign="top" width="13%" rowspan="1">D-GOl</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
@@ -834,7 +834,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="http://www.rism.info/de/workgroups/germany-dresden-munich-working-group-deutschland/einzelinformationen/herrnhut.html" title="Opens internal link in current window" target="_self">Herrnhut, Archiv der Brüderunität</a></td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/herrnhut.html" title="Opens internal link in current window" target="_self">Herrnhut, Archiv der Brüderunität</a></td>
          <td valign="top" width="13%" rowspan="1">D-HER</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
@@ -1202,7 +1202,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="http://www.rism.info/de/workgroups/germany-dresden-munich-working-group-deutschland/einzelinformationen/muegeln.html" title="Opens internal link in current window" target="_self">Mügeln, Ev.-Luth. Pfarramt St. Johannis</a></td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/muegeln.html" title="Opens internal link in current window" target="_self">Mügeln, Ev.-Luth. Pfarramt St. Johannis</a></td>
          <td valign="top" width="13%" rowspan="1">D-MÜG</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
@@ -1282,7 +1282,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="http://www.rism.info/en/workgroups/germany-dresden-munich-working-group-deutschland/einzelinformationen/muenchen-theatinerkirche-st-kajetan-d-mk.html" title="Opens external link in new window" target="_blank">München, Theatinerkirche St. Kajetan</a> (jetzt in: D-Mbs)</td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/muenchen-theatiner.html" title="Opens external link in new window" target="_blank">München, Theatinerkirche St. Kajetan</a> (jetzt in: D-Mbs)</td>
          <td valign="top" width="13%">D-Mk</td>
          <td valign="top" width="21%">KBM 4</td>
       </tr>
@@ -1822,7 +1822,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
       </tr>
       <tr>
          <td valign="top" width="51%" rowspan="1">
-            <p class="bodytext"><a href="http://www.rism.info/de/workgroups/germany-dresden-munich-working-group-deutschland/einzelinformationen/weimar-thueringisches-landesmusikarchiv.html" title="Opens internal link in current window" target="_self">Weimar, Thüringisches Landesmusikarchiv</a>*</p>
+            <p class="bodytext"><a href="/musicmanuscripts/liste-aller-fundorte/weimar-archiv.html" title="Opens internal link in current window" target="_self">Weimar, Thüringisches Landesmusikarchiv</a>*</p>
          </td>
          <td valign="top" width="13%" rowspan="1">D-WRha</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
@@ -1923,7 +1923,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="http://www.rism.info/de/workgroups/germany-dresden-munich-working-group-deutschland/einzelinformationen/zwickau-ratsschulbibliothek.html" title="Opens internal link in current window" target="_self">Zwickau, Ratsschulbibliothek</a></td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/zwickau-rat.html" title="Opens internal link in current window" target="_self">Zwickau, Ratsschulbibliothek</a></td>
          <td valign="top" width="13%" rowspan="1">D-Z</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
