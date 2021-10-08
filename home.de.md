@@ -5,7 +5,7 @@ lang: de
 permalink: /index.html
 ---
 
-<iframe src="https://www.google.com/maps/d/embed?mid=13ubpiW-IJ5y8mxTRJ0RvBpnmuFo" width="680" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=13ubpiW-IJ5y8mxTRJ0RvBpnmuFo" width="100%" height="480"></iframe>
 
 <br>
 
