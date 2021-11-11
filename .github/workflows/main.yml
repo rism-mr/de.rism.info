@@ -1,0 +1,90 @@
+name: Jekyll deployment
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master, staging ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      - name: Configure staging build
+        run: sed -i 's/https:\/\/de\.rism\.info/https:\/\/de-stage\.rism\.info/g' _config.yml
+        if: endsWith(github.ref, '/staging')
+
+      - name: Install packages
+        run: |
+          sudo apt install openresolv wireguard
+
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.6'
+
+      # Use GitHub Actions' cache to shorten build times and decrease load on servers
+      - uses: actions/cache@v2.1.0
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      # Tune the jekyll action
+      - uses:  lemonarc/jekyll-action@1.0.0
+
+      # Build the lunr index with node
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+      - run: |
+          npm install lunr@2.3.9
+          npm install lunr-languages
+          node _site/assets/js/build_index.js _site/pages.json index.json
+          # looks like lemonarc/jekyll-action@1.0.0 runs as root...
+          sudo mv index.json ./_site/
+
+      - name: Set server to deployment if on staging branch
+        if: endsWith(github.ref, '/staging')
+        run: |
+          echo "DEPLOY_SERVER=${{ secrets.DEPLOY_STAGING_SERVER }}" >> $GITHUB_ENV
+          echo "DEPLOY_PATH=${{ secrets.DEPLOY_STAGING_PATH }}" >> $GITHUB_ENV
+
+      - name: Set server to production if on master branch
+        if: endsWith(github.ref, '/master')
+        run: |
+          echo "DEPLOY_SERVER=${{ secrets.DEPLOY_PRODUCTION_SERVER }}" >> $GITHUB_ENV
+          echo "DEPLOY_PATH=${{ secrets.DEPLOY_PRODUCTION_PATH }}" >> $GITHUB_ENV
+
+      - name: Install packages
+        working-directory: ${{ github.workspace }}
+        run: |
+          sudo echo "${{ secrets.VPN_CONFIGURATION }}" > ./wg0.conf
+
+      - name: Set up Wireguard VPN
+        working-directory: ${{ github.workspace }}
+        run: |
+         sudo wg-quick up ./wg0.conf
+
+      # Deploy to remote server
+      - name: Deploy with rsync
+        uses: burnett01/rsync-deployments@4.1
+        with:
+          switches: -avzr --delete --exclude="uploads" --exclude=".well-known" --exclude="wg0.conf"
+          path: _site/
+          remote_path: ${{ env.DEPLOY_PATH }}
+          remote_host: ${{ env.DEPLOY_SERVER }}
+          remote_user: ${{ secrets.DEPLOY_USER }}
+          remote_key: ${{ secrets.DEPLOY_KEY }}
+
+      - name: Disconnect VPN
+        working-directory: ${{ github.workspace }}
+        run: |
+          sudo wg-quick down ./wg0.conf
