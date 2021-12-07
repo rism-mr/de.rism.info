@@ -16,7 +16,7 @@ Since 1979, examples of music&nbsp;iconography&nbsp;in the field of fine arts ha
 
 The project is financed by the&nbsp;[Union of German Academies of Sciences and Humanities](http://www.adwmainz.de/projekte/musikwissenschaftliche-editionen.html "Opens external link in new window")&nbsp;in Mainz. Reports of the German RISM working group are published annually online and in the *Jahrbuch der Akademie der Wissenschaften und der Literatur Mainz* see **[annual reports of the German working groups&nbsp;since 2003](de/publications/jahresberichte.html "Opens external link in new window")**&nbsp;(in German).
 
-The focus of the work is on scholarly cataloging of historical music manuscripts in German collections (predominantly from the time between 1600 and 1850, but sometimes beyond that). More information about this, as well as an overview of the over 200 collections that have already been described, is available&nbsp;[here](music-manuscripts/liste-aller-fundorte.html "Opens internal link in new window").
+The focus of the work is on scholarly cataloging of historical music manuscripts in German collections (predominantly from the time between 1600 and 1850, but sometimes beyond that). More information about this, as well as an overview of the over 200 collections that have already been described, is available&nbsp;[here](musicmanuscripts/liste-aller-fundorte.html "Opens internal link in new window").
 
 Within the scope of RISM Germany, more than 700 collections housed in public, religious, and private institutions have been described so far. Around half of these collections consist of only printed music while the other half is made up of both music manuscripts and imprints.
 
