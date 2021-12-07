@@ -15,7 +15,7 @@ Seit 1979 werden auch Beispiele von Musik, die auf dem ikonographischen Feld der
 
 Die Projekte RISM und RIdIM werden von der Union der Akademien der Wissenschaften unter Federführung der&nbsp;[Akademie der Wissenschaften und Literatur in Mainz](http://www.adwmainz.de/projekte/musikwissenschaftliche-editionen.html "Öffnet externen Link in neuem Fenster")&nbsp;finanziert. Die Arbeitsberichte der deutschen Arbeitsgruppe werden jährlich online im Jahrbuch der Akademie der Wissenschaften und Literatur Mainz veröffentlicht, siehe seit 2003&nbsp;[**Jahresberichte&nbsp;**](publications/jahresberichte.html "Öffnet externen Link in neuem Fenster")(in deutsch).
 
-Weitere Informationen und Beschreibungen der bearbeiteten Bestände mit hauptsächlich Musikhandschriften finden sich&nbsp;[hier](musikhandschriften/liste-aller-fundorte.html "Öffnet internen Link in neuem Fenster").
+Weitere Informationen und Beschreibungen der bearbeiteten Bestände mit hauptsächlich Musikhandschriften finden sich&nbsp;[hier](musicmanuscripts/liste-aller-fundorte.html "Öffnet internen Link in neuem Fenster").
 
 Im Bereich der deutschen RISM-Arbeitsgruppe sind mittlerweile über 700 Bestände von öffentlichen, kirchlichen und privaten Einrichtungen erfasst. Rund die Hälfte dieser Bestände besitzt nur gedruckte Musikalien, die andere Hälfte sowohl Musikhandschriften als auch gedruckte Musikalien.
 
