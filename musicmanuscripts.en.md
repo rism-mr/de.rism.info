@@ -23,9 +23,7 @@ Since cataloging music manuscripts was begun before appropriate computer softwar
 
 You can read details about the state of cataloging the music manuscripts in German libraries [here](http://www.rism.info/?id=393#1369 "Opens external link in new window") (the summaries will gradually be filled out with more information about the individual collections):
 
-[](de/music-manuscripts/liste-aller-fundorte.html "Opens internal link in current window")
-
-[Index of all collections cataloged by RISM](music-manuscripts/liste-aller-fundorte.html#c1369 "Opens internal link in current window")
+[Index of all collections cataloged by RISM](de/musicmanuscripts/liste-aller-fundorte.html "Opens internal link in current window")
 
 [Ongoing projects](projects/laufende-arbeiten.html "Opens internal link in current window")
 
