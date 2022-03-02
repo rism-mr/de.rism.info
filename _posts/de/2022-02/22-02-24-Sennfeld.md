@@ -18,6 +18,6 @@ Zu dieser gehört dann auch die inhaltliche Erschließung durch RISM, die nun im
 
 Links zu einem Artikel der Saale-Zeitung: [https://www.infranken.de/lk/bad-kissingen/1000-stunden-sortiert-und-geprueft-art-5396436](https://www.infranken.de/lk/bad-kissingen/1000-stunden-sortiert-und-geprueft-art-5396436){:blank}
 
-_Obere Abbildung: Schlussbemerkung zur Kantate zum Friedensfest 1795 von J. L. Ludwig_
+_Obere Abbildung: Kantate zum Friedensfest 1795 von J. L. Ludwig_
 
-_Untere Abbildung: Kantate zum Friedensfest 1795 von J. L. Ludwig_
+_Untere Abbildung: Schlussbemerkung zur Kantate zum Friedensfest 1795 von J. L. Ludwig_
