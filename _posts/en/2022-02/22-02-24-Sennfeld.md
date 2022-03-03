@@ -16,7 +16,7 @@ Part of this includes cataloging the content of the materials by RISM. This will
 
 {% include image file="/images/old/senefeld2.png" width="50%" %} 
 
-See also: Sigismund von Dobschütz, "1000 Stunden sortiert und geprüft," Saale-Zeitung, 22 February 2022. [https://www.infranken.de/lk/bad-kissingen/1000-stunden-sortiert-und-geprueft-art-5396436](https://www.infranken.de/lk/bad-kissingen/1000-stunden-sortiert-und-geprueft-art-5396436){:blank}
+See also: Sigismund von Dobschütz, "1000 Stunden sortiert und geprüft," [Saale-Zeitung, 22 February 2022.](https://www.infranken.de/lk/bad-kissingen/1000-stunden-sortiert-und-geprueft-art-5396436){:blank}
  
 _Image 1: Cantata for the Friedensfest of 1795 by J. L. Ludwig_
 
